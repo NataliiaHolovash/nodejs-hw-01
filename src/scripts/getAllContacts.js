@@ -1,9 +1,13 @@
-import { readContacts } from '../utils/readContacts.js';
+import fs from 'node:fs/promises';
+import DetectFileEncodingAndLanguage from 'detect-file-encoding-and-language';
+import { PATH_DB } from '../constants/contacts.js';
 
 const getAllContacts = async () => {
-  return await readContacts();
-};
+  const { encoding } = await DetectFileEncodingAndLanguage(PATH_DB);
+  const data = await fs.readFile(PATH_DB, encoding);
 
+  return await JSON.parse(data);
+};
 export default getAllContacts;
 
 console.log(await getAllContacts());

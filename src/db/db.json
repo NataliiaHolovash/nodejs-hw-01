@@ -61,5 +61,33 @@
     "phone": "371.201.6906",
     "email": "May_Nitzsche12@hotmail.com",
     "job": "Investor Brand Engineer"
+  },
+  {
+    "id": "f26a3b79-72b6-480c-91c8-c5f732659352",
+    "name": "Alexandra Stoltenberg",
+    "phone": "652.782.4451 x7443",
+    "email": "Maurice_West42@hotmail.com",
+    "job": "Direct Optimization Manager"
+  },
+  {
+    "id": "8629b65d-2bdf-4532-85cd-bb36f214d72d",
+    "name": "Samuel Haag",
+    "phone": "623-873-2288 x93568",
+    "email": "Burdette.Hilpert@hotmail.com",
+    "job": "National Optimization Agent"
+  },
+  {
+    "id": "d5e857bc-3ffc-4ccd-a290-6204fb9f789e",
+    "name": "Allison Will",
+    "phone": "(451) 422-9290",
+    "email": "Peggie9@gmail.com",
+    "job": "Customer Integration Director"
+  },
+  {
+    "id": "96eb09cf-ba44-478a-a468-62e0c690cc4b",
+    "name": "Clinton Pollich",
+    "phone": "535.988.7770",
+    "email": "Ralph.Klocko-Marquardt6@hotmail.com",
+    "job": "Lead Implementation Supervisor"
   }
 ]
