@@ -1,93 +1,58 @@
 [
   {
-    "id": "654ad8a2-9b94-4694-9229-fc374a7fe564",
-    "name": "Gordon Wisoky",
-    "phone": "901-753-5713 x638",
-    "email": "Kailee.Huels34@hotmail.com",
-    "job": "Dynamic Data Orchestrator"
+    "id": "0498e2d3-f707-4ab5-892e-a5eaa6443d3e",
+    "name": "Roger Beatty",
+    "phone": "961-584-0552",
+    "email": "Roel79@gmail.com",
+    "job": "Product Division Administrator"
   },
   {
-    "id": "7cb826e8-e330-4595-a3db-20a4ef9592ed",
-    "name": "Eduardo Lowe",
-    "phone": "(270) 486-4352 x910",
-    "email": "Art98@hotmail.com",
-    "job": "Corporate Configuration Facilitator"
+    "id": "f6ff4f6e-1e9b-4d70-b79c-6b4e3776b5c8",
+    "name": "Eunice Bergstrom",
+    "phone": "(265) 534-0122 x2185",
+    "email": "Wilmer70@gmail.com",
+    "job": "Customer Data Director"
   },
   {
-    "id": "0ee8afe9-e18f-4972-b2e6-0eca4358d156",
-    "name": "Antonia Denesik",
-    "phone": "597-496-8283 x80489",
-    "email": "Hadley11@hotmail.com",
-    "job": "Internal Operations Planner"
+    "id": "4d978d21-2131-4719-9e33-1a8a0164d3e8",
+    "name": "Myron Swaniawski",
+    "phone": "(656) 345-8076 x0445",
+    "email": "Cristobal_Leannon7@hotmail.com",
+    "job": "Direct Solutions Architect"
   },
   {
-    "id": "bb113f77-33fb-48bb-9e0f-66394c5cea29",
-    "name": "Woodrow Kub",
-    "phone": "1-592-377-1459 x3957",
-    "email": "Marisol_Koch@yahoo.com",
-    "job": "Central Data Agent"
+    "id": "f45127ef-4f34-4485-9427-30e2a50cae42",
+    "name": "Edward Orn-Thompson",
+    "phone": "359-487-7753",
+    "email": "Sister.Wilderman@gmail.com",
+    "job": "Corporate Program Planner"
   },
   {
-    "id": "bc86c5c1-b6a7-4770-8350-9e696779df28",
-    "name": "Beverly Schumm DVM",
-    "phone": "(204) 487-8280 x565",
-    "email": "Elyssa_Cole19@hotmail.com",
-    "job": "Investor Directives Coordinator"
+    "id": "fc098432-98d1-4917-8d10-86c24fb34dc4",
+    "name": "Yvette Murphy V",
+    "phone": "1-299-370-4347 x3204",
+    "email": "Jadyn.Hand@gmail.com",
+    "job": "District Interactions Specialist"
   },
   {
-    "id": "ed96e2a9-3806-4d0c-b324-f900a590ac61",
-    "name": "Cathy Toy MD",
-    "phone": "714.929.6923 x4643",
-    "email": "Sofia17@gmail.com",
-    "job": "National Markets Executive"
+    "id": "ab4beee2-35d9-432e-9a4e-d0523b5f899f",
+    "name": "Maxine Brekke",
+    "phone": "(517) 335-9035 x9896",
+    "email": "Eriberto77@gmail.com",
+    "job": "Central Configuration Technician"
   },
   {
-    "id": "f63957b3-252e-454b-8af2-ac1e345ccfda",
-    "name": "Alyssa Schuppe",
-    "phone": "(981) 686-7957 x10626",
-    "email": "Hannah_Stokes@gmail.com",
-    "job": "Internal Integration Producer"
+    "id": "14d74f7d-6bc1-4bbe-a36a-41b3387feb47",
+    "name": "Miss Christine Jacobson PhD",
+    "phone": "352.616.1231 x28483",
+    "email": "Natalia25@yahoo.com",
+    "job": "National Research Strategist"
   },
   {
-    "id": "467332f2-c88f-4437-b6e8-c3805e4f8dad",
-    "name": "Dr. Samuel Bernhard",
-    "phone": "942-955-0736 x692",
-    "email": "Monroe49@hotmail.com",
-    "job": "Lead Applications Producer"
-  },
-  {
-    "id": "e0c80468-7cbd-4bf7-904a-05690cceb303",
-    "name": "Simon Lynch",
-    "phone": "371.201.6906",
-    "email": "May_Nitzsche12@hotmail.com",
-    "job": "Investor Brand Engineer"
-  },
-  {
-    "id": "f26a3b79-72b6-480c-91c8-c5f732659352",
-    "name": "Alexandra Stoltenberg",
-    "phone": "652.782.4451 x7443",
-    "email": "Maurice_West42@hotmail.com",
-    "job": "Direct Optimization Manager"
-  },
-  {
-    "id": "8629b65d-2bdf-4532-85cd-bb36f214d72d",
-    "name": "Samuel Haag",
-    "phone": "623-873-2288 x93568",
-    "email": "Burdette.Hilpert@hotmail.com",
-    "job": "National Optimization Agent"
-  },
-  {
-    "id": "d5e857bc-3ffc-4ccd-a290-6204fb9f789e",
-    "name": "Allison Will",
-    "phone": "(451) 422-9290",
-    "email": "Peggie9@gmail.com",
-    "job": "Customer Integration Director"
-  },
-  {
-    "id": "96eb09cf-ba44-478a-a468-62e0c690cc4b",
-    "name": "Clinton Pollich",
-    "phone": "535.988.7770",
-    "email": "Ralph.Klocko-Marquardt6@hotmail.com",
-    "job": "Lead Implementation Supervisor"
+    "id": "09d0a049-7b93-4901-99cc-f10b67709dfd",
+    "name": "Cassandra Dietrich",
+    "phone": "(387) 693-4032 x21054",
+    "email": "Kevon0@hotmail.com",
+    "job": "Investor Interactions Assistant"
   }
 ]

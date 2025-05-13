@@ -1,13 +1,13 @@
-import createFakeContact from '../utils/createFakeContact.js';
-import getAllContacts from './getAllContacts.js';
-import updateContacts from '../utils/updateContacts.js';
+import { createFakeContact } from '../utils/createFakeContact.js';
+import { updateContacts } from '../utils/updateContacts.js';
+import { getAllContacts } from './getAllContacts.js';
 
-const generateContacts = async (number) => {
-  const prevContactsList = await getAllContacts();
+export const generateContacts = async (number) => {
+  const constantsList = await getAllContacts();
   const newContactsList = Array(number).fill(0).map(createFakeContact);
 
-  prevContactsList.push(...newContactsList);
-  await updateContacts(prevContactsList);
+  const data = [...constantsList, ...newContactsList];
+  await updateContacts(data);
 };
 
 generateContacts(5);

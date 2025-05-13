@@ -1,9 +1,8 @@
-import getAllContacts from './getAllContacts.js';
+import { getAllContacts } from './getAllContacts.js';
 
-const countContacts = async () => {
-  const contacts = await getAllContacts();
-  return contacts.length;
+export const countContacts = async () => {
+  const data = await getAllContacts();
+  return data.length;
 };
-export default countContacts;
 
 console.log(await countContacts());
